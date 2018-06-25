@@ -1,4 +1,7 @@
 # LetsEncrypt Route53
+
+[![CircleCI](https://circleci.com/gh/dang3r/letsencrypt-route53/tree/master.svg?style=svg)](https://circleci.com/gh/dang3r/letsencrypt-route53/tree/master)
+
 > A docker container for generating TLS certificates using certbot and Amazon
 > Route53
 
