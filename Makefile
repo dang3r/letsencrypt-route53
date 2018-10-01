@@ -6,4 +6,4 @@ build:
 	docker build -t $(IMAGE) -t $(IMAGE):$(VERSION) .
 
 run:
-	docker-compose run letsencrypt
+	docker-compose up --build letsencrypt
