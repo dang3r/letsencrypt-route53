@@ -25,7 +25,7 @@ Set the following environment variables
 ```shell
 export DOMAIN=<the domain you want a certificate for>
 export EMAIL=<the email associated with the certificate>
-export AWS_ACCCESS_KEY_ID=<aws access key for route53>
+export AWS_ACCESS_KEY_ID=<aws access key for route53>
 export AWS_SECRET_ACCESS_KEY=<aws secret key for route53>
 ```
 
